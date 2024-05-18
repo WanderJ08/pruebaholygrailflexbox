@@ -60,6 +60,6 @@ Puedes personalizar los estilos editando el archivo `styles.css`. Cambia los col
 - **Layout y flexbox**: Modifica el comportamiento del layout utilizando las propiedades de flexbox en la clase `.main-wrapper`.
 - **Medias queries**: Ajusta las reglas de CSS en las secciones `@media` para cambiar la forma en que el layout responde a diferentes tamaños de pantalla.
 
-## Licencia
+## Licencias
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSES para obtener más detalles.
